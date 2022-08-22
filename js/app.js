@@ -1,5 +1,4 @@
 const cart = [];
-// products-cart
 
 function displayProduct() {
 
