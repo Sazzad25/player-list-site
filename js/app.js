@@ -6,6 +6,7 @@ function displayProduct() {
     const cartContainer = document.getElementById("players-cart");
     cartContainer.textContent = '';
 
+
     for (let i = 0; i < 5; i++) {
         const tr = document.createElement("tr");
         tr.innerHTML = `
